@@ -1,0 +1,23 @@
+Script started on 2021-12-26 18:04:25+00:00 [TERM="dumb" TTY="/dev/pts/1" COLUMNS="65" LINES="32"]
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ mkdir folder 1
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ mkdir folder1
+mkdir: cannot create directory ‘folder1’: File exists
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ mkdir folder2
+mkdir: cannot create directory ‘folder2’: File exists
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ touch file1.txt
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ touch file2.txt
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ touch file3.txt
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ mv file1.txt ~/<VJ6VF:/mnt/c/Users/User$ mv file1.txt ~/f                    older1
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ mv fol  ile2.txt ~/<VJ6VF:/mnt/c/Users/User$ mv file2.txt ~/f                    older2
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User$ cat  d folder1
+kemi_orogun@DESKTOP-N8VJ6VF:/mnt/c/Users/User/folder1$ cd
+kemi_orogun@DESKTOP-N8VJ6VF:~$ pwd
+/home/kemi_orogun
+kemi_orogun@DESKTOP-N8VJ6VF:~$ rm file3.txt
+rm: cannot remove 'file3.txt': No such file or directory
+kemi_orogun@DESKTOP-N8VJ6VF:~$ touch file3.txt
+kemi_orogun@DESKTOP-N8VJ6VF:~$ rm file3.txt
+kemi_orogun@DESKTOP-N8VJ6VF:~$ exit
+exit
+
+Script done on 2021-12-26 18:06:28+00:00 [COMMAND_EXIT_CODE="0"]
